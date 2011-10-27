@@ -1,5 +1,8 @@
 require 'sinatra'
+require 'pygmentize'
 
 get '/' do
-  'Hello World!'
+  source = "function foo() { return 'bar'; }"
+
+  Pygmentize.process(source, :javascript)
 end
