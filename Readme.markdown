@@ -1,5 +1,5 @@
 # Pygmentize Example
-Pygmentize is a fantastic gem for syntax highlighting. It's super easy to get going, even on Heroku!. The source for this page is below. See the full project on GitHub. Brought to you by Sam Soffes.
+[Pygmentize](https://github.com/djanowski/pygmentize) is a fantastic gem for syntax highlighting. It's super easy to get going, even [on Heroku](http://pygmentize-example.herokuapp.com/)!. If you're using Heroku, be sure you use the [Cedar Stack](http://devcenter.heroku.com/articles/cedar).
 
 ## Running Locally
 
